@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+guna_form
+</name>
+</assembly>
+<members>
+<member name="T:guna_form.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources._1defe1c08e139a4a534f23676e1a534b">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources._35c11477d386737c8890f6cc0c0cd2d7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources._5545a2a9ce938ec70e0941cdd7a82105">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources._809da62dfa7f9a1a1bfbdd1e40fa36ae">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources._809da62dfa7f9a1a1bfbdd1e40fa36ae1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources._8e9be8eab623d1a87cd696a5918af8af">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.a04bd86dfd53eaf0e73264180f867dc2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.b2baf2fab26ca590e0043a3d420bd920">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.b864854975f3621d28a975f237556419">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.c56fb3ba335505a88fbfcba7ab63d618">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.cc316f97197528e5e26e613a93ab16a4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.d8d4791ec64f0e040111ef014475f2ba">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.dbcc3155fe447fdfa63a9d62aa6a341d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.e99414070fabc44ae9ed2b470c71300a">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.f41e2dab621c1ee5253cef74e3642fcf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.fb50f0543aa72a4b35e1077ec58571ce">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.fec00ad72bc5bb2ccd2332ae35ccd4cc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:guna_form.My.Resources.Resources.fec00ad72bc5bb2ccd2332ae35ccd4cc1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

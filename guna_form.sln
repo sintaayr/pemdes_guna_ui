@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "guna_form", "guna_form\guna_form.vbproj", "{327D7434-1205-4AE0-9386-5946D86B9C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327D7434-1205-4AE0-9386-5946D86B9C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327D7434-1205-4AE0-9386-5946D86B9C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327D7434-1205-4AE0-9386-5946D86B9C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327D7434-1205-4AE0-9386-5946D86B9C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C51B73B-575A-43EB-8582-A47F4A2D4921}
+	EndGlobalSection
+EndGlobal
